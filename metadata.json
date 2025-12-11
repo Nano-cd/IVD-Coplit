@@ -1,0 +1,5 @@
+{
+  "name": "IVD-Copilot",
+  "description": "A professional-grade Intelligent In-Vitro Diagnostics (IVD) Assistant dashboard simulating high-end medical instrument control software with AI-powered troubleshooting.",
+  "requestFramePermissions": []
+}
